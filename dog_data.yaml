@@ -1,0 +1,7 @@
+train: data/train
+val: data/val
+test: data/test
+
+names:
+  0: calm_dog
+  1: aggressive_dog

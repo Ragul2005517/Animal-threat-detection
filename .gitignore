@@ -1,0 +1,8 @@
+venv/
+data/
+uploads/
+all_aggressive_dogs/
+all_calm_dogs/
+*.pt
+*.zip
+__pycache__/
